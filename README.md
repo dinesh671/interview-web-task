@@ -18,4 +18,6 @@ Note: Only for those you have given web dev interview
 
 For queries: Hop on to the Discord and ask your doubts personally to me, **@smitbarmase** (Web Lead) OR **@sarthakkundra** (Tech Lead)!
 
+Smit's discord id: *smitbarmase#6703*
+
 Best of luck!
