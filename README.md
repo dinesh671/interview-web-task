@@ -14,8 +14,8 @@ Note: Only for those you have given web dev interview
 8. Send Pull Request from your forked repo to original repo.
 9. Look into the mirror and tell yourself that you are awesome! Done.
 
-Deadline: 19 Dec 2020, mid-night.
+*Deadline: 19 Dec 2020, mid-night.*
 
-For queries: Hop on to the Discord and ask your doubts personally to me, @smitbarmase (Web Lead) OR @sarthakkundra (Tech Lead)!
+For queries: Hop on to the Discord and ask your doubts personally to me, *@smitbarmase* (Web Lead) OR *@sarthakkundra* (Tech Lead)!
 
 Best of luck!
