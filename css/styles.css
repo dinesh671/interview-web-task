@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to top, rgba(83, 75, 75, 0), rgb(146, 214, 253));
+    margin-top: 50px;
+    font-size: medium;
+    font-family: 'Andika New Basic', sans-serif;
+    
+    
+  }
+  h1{ 
+    margin: 60px;
+      text-align: left;
+      font-size: 50px;
+      border-bottom: 30px;
+  }
+  #first {
+      margin: 10px;
+  }
+  .sub1{
+      font-size: large;
+      font-weight: bolder;
+  }
+  .space{
+      margin: 20px;
+  }
+  .space1{
+      margin-left: 100px;
+  }
+  .box{
+      box-sizing: border-box;
+      border: 2px solid rgb(68, 64, 64);
+      margin: 30px;
+      padding: 20px 20px 20px 20px;
+  }
